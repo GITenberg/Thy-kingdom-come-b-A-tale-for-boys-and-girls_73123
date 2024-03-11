@@ -1,0 +1,27 @@
+_repo: Thy-kingdom-come-b-A-tale-for-boys-and-girls_73123
+_version: 0.0.1
+creator:
+  author:
+    agent_name: M. H. (Matilda Horsburgh)
+    aliases:
+    - H., M. (Matilda Horsburgh)
+    - Horsburgh, Matilda
+    gutenberg_agent_id: '56945'
+    url: http://www.gutenberg.org/2009/agents/56945
+description: ''
+gutenberg_issued: '2024-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73123'
+language: en
+pgterms:marc905: 20240229091234horsburgh
+pgterms:marc906: '1886'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bT. Nelson and Sons, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"Thy kingdom come." : $b A tale for boys and girls.'
+url: http://www.gutenberg.org/ebooks/73123

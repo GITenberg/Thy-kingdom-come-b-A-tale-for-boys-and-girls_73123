@@ -1,5 +1,8 @@
 _repo: Thy-kingdom-come-b-A-tale-for-boys-and-girls_73123
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: M. H. (Matilda Horsburgh)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56945'
     url: http://www.gutenberg.org/2009/agents/56945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73123#Thy-kingdom-come-b-A-tale-for-boys-and-girls
 gutenberg_issued: '2024-03-08'
 gutenberg_type: Text
 identifiers:
